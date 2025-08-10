@@ -372,10 +372,8 @@ SOFTWARE.
 
 ## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/tee-credential-manager/issues)
-- **Security Issues**: security@yourapp.com
-- **Documentation**: [Wiki](https://github.com/yourusername/tee-credential-manager/wiki)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/tee-credential-manager/discussions)
+- **Issues**: [GitHub Issues](https://github.com/kashif1akhtar/password_manager_tee/issues)
+- **Security Issues**: kashif.akhtar@outlook.com
 
 ---
 
